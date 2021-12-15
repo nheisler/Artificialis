@@ -10,3 +10,5 @@ In order to run this code in Google Colaboratory, you need to have the following
     - Images
 - LandscapeAI
     - *directories containing image files
+
+You will also need to change 'Hardware accelerator' to 'GPU'
